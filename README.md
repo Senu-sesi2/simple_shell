@@ -1,4 +1,4 @@
-##README.md - simple shell
+## README.md - simple shell
 * This file contain some useful information about the simple shell project.
 
 ###General Requirements
@@ -13,7 +13,7 @@
 8. Use system calls only when you need to
 9. An AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository.
 
-###Task descriptions
+### Task descriptions
 
 1. a beautiful code that passes the Betty checks
 2. a UNIX command line interpreter.
@@ -64,7 +64,7 @@
 	3. The file should contain one command per line
 	4. In this mode, the shell should not print a prompt and should not read from stdin 
 
-###How the Shell works
+### How the Shell works
 
 1. Displaying the prompt
 2. Reading user input (fgets)
@@ -78,7 +78,7 @@
 9. Returning to the prompt
 10. Exiting the shell
 
-###What I need
+### What I need
 
 1. A header file that will contain functions prototypes
 2. A function that displays the prompt
